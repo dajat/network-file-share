@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1></h1>
+<h1>Network File Shares and Permissions</h1>
 This tutorial extends the on-premises Active Directory within Azure Virtual Machines. This tutorial demonstrates network file sharing and setting permissions on the domain controller.<br />
 
 <h2>Environments and Technologies Used</h2>
